@@ -1,6 +1,5 @@
 # ALDUQ
 Automatic landmark detection model for planar shape data
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Detailedcode.zip is a zipped folder containing the following Matlab programs:
 
@@ -19,11 +18,9 @@ q_to_curve.m
 ReSampleCurve.m
 ShiftF.m
 
-Wrapper to replicate paper examples from "Automatic Detection and Uncertainty Quantification of Landmarks on Elastic Curves"
-(https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1527224):
+Wrapper to replicate paper examples from "Automatic Detection and Uncertainty Quantification of Landmarks on Elastic Curves" (https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1527224):
 ExampleCode.m
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 The folder also has the following data included:
 
 mice.mat (with help file MiceLabels.txt)
