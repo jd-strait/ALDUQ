@@ -5,9 +5,9 @@ Detailedcode.zip is a zipped folder containing the following Matlab programs:
 
 **Main programs**
 
-`ALDfixed.m` - MCMC for fixed number of landmarks model (inferring \theta)
-`ALDunknown.m` - MCMC for unknown number of landmarks model (inferring k and \theta)
-`FindBestk.m` - repeated parallel MCMC runs of ALDfixed.m for criterion-based approach for selecting number of landmarks
+`ALDfixed.m` - MCMC for fixed number of landmarks model (inferring \theta) \\
+`ALDunknown.m` - MCMC for unknown number of landmarks model (inferring k and \theta) \\
+`FindBestk.m` - repeated parallel MCMC runs of ALDfixed.m for criterion-based approach for selecting number of landmarks \\
 
 **Sub programs**
 
