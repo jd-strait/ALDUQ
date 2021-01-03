@@ -9,7 +9,7 @@ Detailedcode.zip is a zipped folder containing the following Matlab programs:
 
 `ALDunknown.m` - reversible jump MCMC for unknown number of landmarks model (inferring k and \theta)
 
-`FindBestk.m` - repeated parallel MCMC runs of ALDfixed.m for criterion-based approach for selecting number of landmarks
+`FindBestk.m` - repeated parallel MCMC runs of ALDfixed.m for criterion-based approach for selecting number of landmarks -- uses parallel computing functionality in MATLAB
 
 **Sub programs**
 
